@@ -1,0 +1,5 @@
+
+
+1. All of the tribes in North America got there through the Bering land bridge. They all crossed from what is now Russia and ended up in what is now Alaska. This was the only way people were able to North America before the arrival of the europeans meaning they must've all gone this way.
+2. A major difference between the tribes of North America before the europeans is what and how they hunted. In the great plains of the midwest tribes would hunt large buffalo herds, while on the coasts fishing was the main hunting method. These differences show that tribes adapted to their environments as opposed to solely relying on trade or theft to survive like the early European colonies did.
+3. The movement of settlers to the west hurt the tribes of the plains by murdering the buffalo they relied on for food and other things. Because the tribes of the great plains relied so heavily on the hunting of buffalo, when settlers starting moving west and killing buffalo, the tribes had less and less to hunt for themselves. The tribes then had to look further and harder to find buffalo to hunt.

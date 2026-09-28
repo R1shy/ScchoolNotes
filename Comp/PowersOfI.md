@@ -1,0 +1,4 @@
+- i¹ = i
+- i² = -1 (by definition, since (i = $\sqrt{-1}$))
+- i³ = -i (which is i² × i = -1 × i)
+- i⁴ = 1 (which is i² × i² = -1 × -1) 
