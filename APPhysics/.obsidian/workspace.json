@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/KinematicEquations.md",
+                "file": "Classwork/CW-09-28-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KinematicEquations"
+              "title": "CW-09-28-2026"
             }
           }
         ]
@@ -190,12 +190,14 @@
   },
   "active": "8e4321b5c1ab1de7",
   "lastOpenFiles": [
-    "Definitions/Acceleration.md",
+    "Definitions/Displacement.md",
+    "Classwork/CW-09-28-2026.md",
+    "Definitions/Newtons-First-Law.md",
     "Definitions/KinematicEquations.md",
+    "Definitions/Acceleration.md",
     "Definitions/MeanAverage.md",
     "Definitions/Speed.md",
     "Definitions/Velocity.md",
-    "Definitions/Displacement.md",
     "Definitions/Position.md",
     "Definitions/STDDev.md",
     "Definitions/Magnitude.md",
@@ -216,8 +218,6 @@
     "Speed.md",
     "Displacement.md",
     "Distance.md",
-    "Position.md",
-    "MeanAverage.md",
     "Images/Screenshot 2026-08-27 150116.png",
     "Images",
     "Images/Screenshot 2026-08-27 152806.png",
