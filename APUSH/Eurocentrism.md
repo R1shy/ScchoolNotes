@@ -1,0 +1,1 @@
+Focusing on Europe as the center of all civilization ignoring the native peoples that lived in the places europeans colonized before Europeans colonized them.

@@ -1,0 +1,1 @@
+range between mean - stdev  and mean + stdev
