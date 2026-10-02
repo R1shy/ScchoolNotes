@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "31b911f23cad3e4f",
+            "id": "dba03cfb5f655066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellipses.md",
+                "file": "HW-10-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellipses"
+              "title": "HW-10-02-2026"
             }
           }
         ],
@@ -222,10 +222,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31b911f23cad3e4f",
+  "active": "dba03cfb5f655066",
   "lastOpenFiles": [
+    "CW-10-02-2026.md",
+    "HW-10-02-2026.md",
     "HW-09-30-2026.md",
+    "DefinitionsOfNumberSets.md",
+    "FactoringShortcuts.md",
+    "FactoringNotes.md",
+    "NotableGraphFeatures.md",
     "Ellipses.md",
+    "CW-09-16-2026.md",
+    "graphs/desmos-graph-66efa2d966da20deeeea2351343f41ceb89bdfdea98150a94bf11d16790cadff.svg",
+    "graphs/desmos-graph-0675e676bae85d9edd553e5037650a6781d586e7b626ca0737e2f5101653ceb9.svg",
+    "EasyVertex.md",
     "graphs/desmos-graph-e9086196d1867b90bfc63adbc7e796317adbe05142e5379842074211fd41bdd3.svg",
     "graphs/desmos-graph-cb0ec27d876ef9ce6c8a1a5a276a263cb5685e753e65ec1c3e00aa7f9ff118e9.svg",
     "graphs/desmos-graph-ce6826c2daf1edef9ad9f6f86e67d3d234a6d97d315a9e2e056ab5026c1aa865.svg",
@@ -233,26 +243,18 @@
     "graphs/desmos-graph-aecf6930cd1555e86bbefd6c41f04f60c4bfe24c7bc452cceab379da5cf38bb7.svg",
     "graphs/desmos-graph-4210faf44cc1b5de6c46b90d9a975de70c1e1da605414cd97852e845e214ad7a.svg",
     "graphs/desmos-graph-19a035f3c0c531f205ccf8a2de69325a1ec4cc8da49a60e701b14086cbba8969.svg",
-    "EasyVertex.md",
     "HW-09-25-2026.md",
-    "NotableGraphFeatures.md",
     "CW-09-30-2026.md",
     "graphs/desmos-graph-6d80368c4595567e0d59a749197cf704ff6722fbc741b5850767b11705db1f9b.svg",
-    "graphs/desmos-graph-b076fc93c0ea1664c8c963eb0f70f95160d85f988cdbb1054b8a403f8b5794d2.svg",
-    "graphs/desmos-graph-a30d0dedcfe04170ddc6a8e4858d73376418a0815502b6779751648dfb361bb3.svg",
     "HW-09-23-2026.md",
     "HW-09-2.md",
     "HW-09-21-2026.md",
     "PowersOfI.md",
-    "FactoringShortcuts.md",
     "HW-09-15-2026.md",
-    "CW-09-16-2026.md",
     "PerfectSquarePatterns.md",
-    "FactoringNotes.md",
     "CW-09-15-2026.md",
     "HW-09-14-2026.md",
     "PSF.md",
-    "DefinitionsOfNumberSets.md",
     "HW-09-11-2026.md",
     "Quads09112026.pdf",
     "CW-09-14-2026.md",
@@ -261,8 +263,6 @@
     "Quads09112026",
     "HW-08-26-2026.md",
     "HW-08-28-2026.md",
-    "HW-08-31-2026.md",
-    "CW-09-11-2026.md",
     "graphs",
     "images",
     "New Folder"
