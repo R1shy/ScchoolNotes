@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81e3f4b435a9934c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HW-09-23-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW-09-23-2026"
-            }
-          },
-          {
             "id": "e0b1cb0b69d4a060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW-09-25-2026.md",
+                "file": "HW-09-30-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW-09-25-2026"
+              "title": "HW-09-30-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,27 +209,29 @@
   },
   "active": "e0b1cb0b69d4a060",
   "lastOpenFiles": [
+    "graphs/desmos-graph-e9086196d1867b90bfc63adbc7e796317adbe05142e5379842074211fd41bdd3.svg",
+    "graphs/desmos-graph-cb0ec27d876ef9ce6c8a1a5a276a263cb5685e753e65ec1c3e00aa7f9ff118e9.svg",
+    "graphs/desmos-graph-ce6826c2daf1edef9ad9f6f86e67d3d234a6d97d315a9e2e056ab5026c1aa865.svg",
+    "graphs/desmos-graph-14de824be687d564ddf023e9ec4d1818b8430ce7552e4c8c3bbe1785b0d9ae68.svg",
+    "graphs/desmos-graph-aecf6930cd1555e86bbefd6c41f04f60c4bfe24c7bc452cceab379da5cf38bb7.svg",
+    "graphs/desmos-graph-4210faf44cc1b5de6c46b90d9a975de70c1e1da605414cd97852e845e214ad7a.svg",
+    "graphs/desmos-graph-19a035f3c0c531f205ccf8a2de69325a1ec4cc8da49a60e701b14086cbba8969.svg",
+    "EasyVertex.md",
+    "HW-09-30-2026.md",
+    "HW-09-25-2026.md",
+    "NotableGraphFeatures.md",
+    "CW-09-30-2026.md",
     "graphs/desmos-graph-6d80368c4595567e0d59a749197cf704ff6722fbc741b5850767b11705db1f9b.svg",
     "graphs/desmos-graph-b076fc93c0ea1664c8c963eb0f70f95160d85f988cdbb1054b8a403f8b5794d2.svg",
     "graphs/desmos-graph-a30d0dedcfe04170ddc6a8e4858d73376418a0815502b6779751648dfb361bb3.svg",
     "graphs/desmos-graph-4a71eff4f07bc78489bb3c94baf181f8a57f0489079327693c0cb13de5667a75.svg",
-    "graphs/desmos-graph-b8bf6e6418ab0af473e2d3c378ca843801b905ae7072a1418883d5ef3b0aa3c3.svg",
     "HW-09-23-2026.md",
-    "HW-09-25-2026.md",
     "HW-09-2.md",
-    "NotableGraphFeatures.md",
     "HW-09-21-2026.md",
-    "graphs/desmos-graph-bcb8d800f987fa016c986f137c45f7600619a47909c3cbecb7344c6caa821aba.svg",
-    "graphs/desmos-graph-97a7eae15b9cf806c4fd28c7bd549f83e04054d31ff28a3789a34b03e4961866.svg",
-    "graphs/desmos-graph-6b9cbb20044eb44f752522590a557dbff2cabff2df576078d35f1e9607a497a9.svg",
-    "graphs/desmos-graph-46b40f13ab6d3fe0c837392bd2d3208567470f1915e5ab2f37cc649fb0784c14.svg",
-    "graphs/desmos-graph-232c765b41f5ea6dd7d5593fac7d7ee26248e056f861b5d235de33ca06ffc98f.svg",
-    "graphs/desmos-graph-3923d78ddf9e142b4044ea60ea639990b6bfab2a160ace0f7787f257e6c63537.svg",
     "PowersOfI.md",
     "FactoringShortcuts.md",
     "HW-09-15-2026.md",
     "CW-09-16-2026.md",
-    "EasyVertex.md",
     "PerfectSquarePatterns.md",
     "FactoringNotes.md",
     "CW-09-15-2026.md",
@@ -261,8 +248,6 @@
     "HW-08-28-2026.md",
     "HW-08-31-2026.md",
     "CW-09-11-2026.md",
-    "CW-08-26-2026.md",
-    "HW-08-25-2026.md",
     "graphs",
     "images",
     "New Folder"

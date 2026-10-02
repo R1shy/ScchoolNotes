@@ -23,3 +23,6 @@ y=x|y>0
 ```
 
 
+
+## 09/29/2026
+Because the once you start pushing the wheels will start rolling in the same direction you are pushing lowering the amount of force you need to apply to move it.
