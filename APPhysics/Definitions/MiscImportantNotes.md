@@ -1,0 +1,1 @@
+forces for throws are only applied when it is being touched ie: a ball mid-throw has only gravity and air resistance acting on it

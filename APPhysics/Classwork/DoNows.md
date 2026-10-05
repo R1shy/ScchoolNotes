@@ -26,3 +26,9 @@ y=x|y>0
 
 ## 09/29/2026
 Because the once you start pushing the wheels will start rolling in the same direction you are pushing lowering the amount of force you need to apply to move it.
+
+## 10/02/2026
+
+$a=\frac{F}{m}$
+$a=\frac{85}{750}$
+$a=0.1134$

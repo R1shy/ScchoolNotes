@@ -8,3 +8,6 @@ $a=\frac{F_{net}}{m}$
 F = force applied
 m = intertia / mass
 a = acceleration
+
+if more than 1 force applying on an object acceleration direction is netForce (sum of all)
+if net force is zero there is no acceleration
