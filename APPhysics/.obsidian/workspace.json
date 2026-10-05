@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/ForceApplied-Newtons-Second-Law.md",
+                "file": "Definitions/Newtons-First-Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ForceApplied-Newtons-Second-Law"
+              "title": "Newtons-First-Law"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "1f87b9db1a7d5f6d",
   "lastOpenFiles": [
-    "Classwork/CW-09-29-2026.md",
     "Definitions/ForceApplied-Newtons-Second-Law.md",
+    "Classwork/CW-09-29-2026.md",
     "Definitions/Mass.md",
     "Classwork/DoNows.md",
     "Classwork/CW-09-28-2026.md",
