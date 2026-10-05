@@ -1,76 +1,37 @@
 {
   "main": {
-    "id": "72a9546b2b1ba972",
+    "id": "f886d79f94547f39",
     "type": "split",
     "children": [
       {
-        "id": "dcab8047b9c2149d",
+        "id": "c2e08fd04d13acd6",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4321b5c1ab1de7",
+            "id": "00ff571de6e2a9fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/ForceApplied-Newtons-Second-Law.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ForceApplied-Newtons-Second-Law"
-            }
-          },
-          {
-            "id": "1f87b9db1a7d5f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Definitions/Newtons-First-Law.md",
-=======
-                "file": "Classwork/CW-02-10-2026.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Newtons-First-Law"
-=======
-              "title": "CW-02-10-2026"
-            }
-          },
-          {
-            "id": "f7f9cf74595b3ba7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-02 15.38.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-02 15.38.08.excalidraw"
->>>>>>> Stashed changes
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b2da742713b341bb",
+    "id": "4db9b82560a3d627",
     "type": "split",
     "children": [
       {
-        "id": "d4cfb29c05544cbb",
+        "id": "e972e4b126c1f762",
         "type": "tabs",
         "children": [
           {
-            "id": "92b96b1e900b1367",
+            "id": "bc3bddfb19e076c5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +46,7 @@
             }
           },
           {
-            "id": "8611c22e71e101a9",
+            "id": "252fb52b479d9f8a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,7 +63,7 @@
             }
           },
           {
-            "id": "2752edca49b6c997",
+            "id": "32b0c0c8e568867f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,20 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "d62f8526cbbee5b3",
+    "id": "2dbea87bbbe6d4e6",
     "type": "split",
     "children": [
       {
-        "id": "10cc6754b7a9200d",
+        "id": "964132d0a5344751",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3ce74c1e768840",
+            "id": "1e07a1e587e593b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +108,11 @@
             }
           },
           {
-            "id": "31fdf8eb82d43bf7",
+            "id": "27a9d19166fc6140",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +121,7 @@
             }
           },
           {
-            "id": "e214b97cf7560f94",
+            "id": "a428ce57ef640c57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,7 +136,7 @@
             }
           },
           {
-            "id": "95ab74f5d84964ff",
+            "id": "d4fb1eed79095093",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -191,12 +150,11 @@
             }
           },
           {
-            "id": "d96517627885cc08",
+            "id": "a7b9c2eda263568d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,61 +172,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f87b9db1a7d5f6d",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Definitions/ForceApplied-Newtons-Second-Law.md",
-    "Classwork/CW-09-29-2026.md",
-    "Definitions/Mass.md",
-=======
-    "Excalidraw/Drawing 2026-10-02 15.38.08.excalidraw.md",
-    "Classwork/CW-02-10-2026.md",
-    "Excalidraw",
-    "Definitions/MiscImportantNotes.md",
-    "Definitions/NormalForce.md",
-    "Definitions/FreeBodyDiagram.md",
-    "Definitions/ForceApplied-Newtons-Second-Law.md",
->>>>>>> Stashed changes
-    "Classwork/DoNows.md",
-    "Classwork/CW-09-29-2026.md",
-    "Definitions/Mass.md",
-    "Classwork/CW-09-28-2026.md",
-    "Definitions/Displacement.md",
-    "Definitions/Newtons-First-Law.md",
-    "Definitions/KinematicEquations.md",
-    "Definitions/Acceleration.md",
-    "Definitions/MeanAverage.md",
-    "Definitions/Speed.md",
-    "Definitions/Velocity.md",
-    "Definitions/Position.md",
-    "Definitions/STDDev.md",
-    "Definitions/Magnitude.md",
-    "Definitions/ExpUnc.md",
-    "Definitions/Distance.md",
-    "Definitions",
-    "CW-09-18-2026.md",
-    "Classwork/CW-09-18-2026.md",
-    "Classwork/CW-09-17-2026.md",
-    "Classwork/CW-09-15-2026.md",
-    "Classwork",
-    "Images/Screenshot 2026-08-27 150116.png",
-    "Images",
-    "Images/Screenshot 2026-08-27 152806.png",
-    "Images/Screenshot 2026-08-27 145439.png",
-    "Images/Screenshot 2026-08-27 145405.png",
-    "Images/Screenshot 2026-08-27 145309.png",
-    "Images/Screenshot 2026-08-27 145211.png",
-    "Labs",
-    "Untitled.base"
-  ]
+  "active": "00ff571de6e2a9fd",
+  "lastOpenFiles": []
 }
