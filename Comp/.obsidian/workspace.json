@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "HW-10-05-2026"
             }
+          },
+          {
+            "id": "4a8084f30b7fc26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperbolas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperbolas"
+            }
           }
         ]
       }
@@ -191,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,29 +223,30 @@
   },
   "active": "b9f27ef057814409",
   "lastOpenFiles": [
+    "graphs/desmos-graph-6082f7750b7343384e05188b97aa1cb12ebc54114d505ec357d876649a205e5d.svg",
+    "graphs/desmos-graph-e472572f09f2546dbd4b9e5e39b1fa13667a239f2bfbeb4b7faf4f5742dca355.svg",
+    "graphs/desmos-graph-555ac8ace7498f1b420e5631b77ba4402e04385bc3a4a297ce8536286810557f.svg",
+    "graphs/desmos-graph-ca7285bc467b68583d2a9c752e77f46f10c2e82b92d74a4acbd24c4d2674575d.svg",
+    "graphs/desmos-graph-8c20fe87923316bab2a40214a6ab6f53eee73f1b8191568e557f940a30192a06.svg",
+    "graphs/desmos-graph-2a9be31b4ba3eec1edfc46f125c75e9b7bbd6605d777ee3cadc208aa677b6959.svg",
+    "graphs/desmos-graph-1e5effa17a7821ba9ee7e92c8177202b92de606a4448b4421b70519b945c18eb.svg",
+    "graphs/desmos-graph-0a0428c8b2e4e02ce0bced973acf8615a03b015bfda7aaf92495dea7fcb87f6a.svg",
+    "graphs/desmos-graph-e44d1b9c102f7f6a34287cda6662c8cf0137530078a35953e2ecc666dc690136.svg",
+    "graphs/desmos-graph-ee44f1d7ba60dc43c60c3ea6deb7984a9e9f81ad13afe5a62a718bb661bc6377.svg",
+    "graphs/desmos-graph-8367d5a8a0402c71ebb6768f94f05c2202576999e4036ae7e7b3f2ec9ee29e8a.svg",
     "Hyperbolas.md",
     "HW-10-05-2026.md",
-    "graphs/desmos-graph-d9bdcabea9336b63069f180c7b4f6b64d2da7738c20a83e77de7b29e21a20c60.svg",
-    "NotableGraphFeatures.md",
     "HW-10-02-2026.md",
-    "graphs/desmos-graph-aa901a5e18d0e9ff1d49647d3f9817bd125bcf962d5c5eec62e7ad15f401e406.svg",
+    "NotableGraphFeatures.md",
     "Ellipses.md",
     "CW-10-05-2026.md",
-    "graphs/desmos-graph-61dd0d02435fe1d09d7e07bf8d3cc601559fe61c1f60b2c0ab3520dda0954869.svg",
-    "graphs/desmos-graph-0ae8e6f34fc67e5dbc2c76bffd5e312283e5ed6582137c1a0cd3d21a6f8c5710.svg",
-    "graphs/desmos-graph-b76082cb0213f924daefafda213abaf11cd729c3da3825fd11f03730e9b0a2d5.svg",
     "HowToGoFromSTDToGraphEllipses.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
-    "graphs/desmos-graph-d3ae95700502934b663965b2c7f8b2a6a3c2c58e59173d3291d000077b6ce3d8.svg",
-    "graphs/desmos-graph-7229e9afad1d0192dda866c39d334f8d19dbfe25d2bb06e5e22146d0597695f1.svg",
     "CW-10-02-2026.md",
     "EasyVertex.md",
     "FactoringShortcuts.md",
     "CW-05-10-2026.md",
-    "graphs/desmos-graph-653a2eb7e968e705102089cc8cf1d357a68ab6c451b3d1fcb55ee4593641a0b3.svg",
-    "graphs/desmos-graph-bc5de304d0bce60fbfeea1220e368a67856541bbecef3b5d5386604d0c1bc293.svg",
-    "graphs/desmos-graph-272753273fe5dc95c958ea0b10ad8668b7febe168187b7a636200c146c944e6e.svg",
     "HW-09-30-2026.md",
     "DefinitionsOfNumberSets.md",
     "FactoringNotes.md",
