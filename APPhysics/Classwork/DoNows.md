@@ -32,3 +32,11 @@ Because the once you start pushing the wheels will start rolling in the same dir
 $a=\frac{F}{m}$
 $a=\frac{85}{750}$
 $a=0.1134$
+
+## 10/05/2026
+![[DoNows 2026-10-05 14.59.32.excalidraw]]
+$a=\frac{F_{net}}{750}$
+$F_{net}=2(85)-85$
+$F_{net}=85$
+$a=\frac{85}{750}$
+$a=0.1134$
