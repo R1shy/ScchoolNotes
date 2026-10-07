@@ -1,1 +1,1 @@
-$massofcube1 - masstosolvefor \times 9.8 = (massofcube1 + masstosolvefor)(accelerationgiven)$
+$m_{known} - m_{unknown} \times 9.8 = (m_{known} + m_{unknown})(a)$
