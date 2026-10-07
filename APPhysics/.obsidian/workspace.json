@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da128d50add5c645",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg"
-            }
-          },
-          {
-            "id": "78fde6a0ea6250d7",
+            "id": "a1f242f5dae54db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classwork/CW-10-05-2026.md",
+                "file": "Definitions/HowToSolveAtwoodMachines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CW-10-05-2026"
+              "title": "HowToSolveAtwoodMachines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +186,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "78fde6a0ea6250d7",
+  "active": "a1f242f5dae54db2",
   "lastOpenFiles": [
+    "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
+    "Definitions/HowToSolveAtwoodMachines.md",
+    "Classwork/CW-10-06-2026.md",
+    "Classwork/DoNows.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
+    "Excalidraw/DoNows 2026-10-06 15.03.23.excalidraw.svg.md",
     "Classwork/CW-10-05-2026.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.18.48.excalidraw.md",
     "Untitled.md",
-    "Classwork/DoNows.md",
     "Excalidraw/DoNows 2026-10-05 14.59.32.excalidraw.md",
     "Excalidraw/Drawing 2026-10-05 14.59.07.excalidraw.md"
   ]

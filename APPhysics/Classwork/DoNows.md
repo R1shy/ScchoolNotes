@@ -40,3 +40,15 @@ $F_{net}=2(85)-85$
 $F_{net}=85$
 $a=\frac{85}{750}$
 $a=0.1134$
+
+
+## 10/06/2026
+![[DoNows 2026-10-06 15.03.23.excalidraw.svg|200x100]]
+
+$F_{net}=M_{system}*a$
+$F_{net}=9.8-m*g$
+
+$F_{net}=M_{system}*1.625$
+$M_{system}=1kg+m$
+$9.8-m\times g=(1+m)(1.625)$
+$9.8-m\times g=1.625+1.625m$
