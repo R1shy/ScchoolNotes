@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW-07-10-2026.md",
+                "file": "HW-10-07-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW-07-10-2026"
+              "title": "HW-10-07-2026"
             }
           }
         ],
@@ -251,6 +251,10 @@
   },
   "active": "a93dacf7fe1753a5",
   "lastOpenFiles": [
+    "graphs/desmos-graph-f3596c24dd8fadc70d0855966c3ca479a77edce2f218b30876758bf14509f414.svg",
+    "graphs/desmos-graph-b8c1392d885e906c1ab8a398d0975eef50a05a58fa5a78a168671afd5598ba43.svg",
+    "graphs/desmos-graph-dc4269e9e8963b72029118ea41548295d227628bbac7c8b01afd1d470d2bca5a.svg",
+    "graphs/desmos-graph-da5d72095591b2c58371f8de8e8b6027809cf4c9128b0eb0990f1a7811f2c6ce.svg",
     "graphs/desmos-graph-18049a21a6b5fdbaf161ad80041a725b7178c3029a870dbcb3319bab39f23715.svg",
     "graphs/desmos-graph-ad4b388f5b22160bfdc4327785c351e7156a1fa2b26824ba05ec72ad71ce475f.svg",
     "graphs/desmos-graph-41bec886777fc4d9bf80d358600ac8c0a83280d8e92b4739462a81a867e728b9.svg",
@@ -258,12 +262,8 @@
     "graphs/desmos-graph-3f9a5ad99faf9e016aced58824bc5561cb5c9ef120a73d6711468a142f08b581.svg",
     "graphs/desmos-graph-343b22a541e03a62fb9299d46a5b50812cdc7f277eb4b778eaeb4115ad24f1d5.svg",
     "graphs/desmos-graph-358615daf285638ce8ae5778af75149d36ef55192edacd12295298d9b9d9afbf.svg",
-    "graphs/desmos-graph-cd979678e729feb1307ae894eb0429f4a2b8555a500475029f7845ce17780680.svg",
-    "graphs/desmos-graph-fcc6f12eca68a83f82bfdd5f4a886752c8dbe0b2a584404b3c27b71c7b41b8d6.svg",
-    "graphs/desmos-graph-4d1c3a3d7c6c0f8a73ff79c7161b92e13ecb498f99bd07c0bf549e7118a97fc9.svg",
-    "graphs/desmos-graph-474386eaf2188b58ef4bd35f0d3d36784da0c53ea5589d2ea872c4a3c48fce4b.svg",
     "SidewaysParabolas.md",
-    "HW-07-10-2026.md",
+    "HW-10-07-2026.md",
     "Functions.md",
     "CW-10-05-2026.md",
     "CW-10-06-2026.md",

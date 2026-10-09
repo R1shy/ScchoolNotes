@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55d424017a6d6980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2"
-            }
-          },
-          {
-            "id": "1b7448c431ac24a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LEQ-Practice-09-14-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LEQ-Practice-09-14-2026"
-            }
-          },
-          {
             "id": "e68ee4cedfecab4b",
             "type": "leaf",
             "state": {
@@ -50,21 +22,21 @@
             }
           },
           {
-            "id": "0f7d79ae03cf8ea2",
+            "id": "699fcfc0fc63c237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AmericanRevolutionTimeline.md",
+                "file": "DBQ-Practice-10-08-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AmericanRevolutionTimeline"
+              "title": "DBQ-Practice-10-08-2026"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,9 +220,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f7d79ae03cf8ea2",
+  "active": "699fcfc0fc63c237",
   "lastOpenFiles": [
     "DBQ-Practice-09-17-2026.md",
+    "DBQ-Practice-10-08-2026.md",
     "AmericanRevolutionTimeline.md",
     "LEQ-Practice-09-14-2026.md",
     "SAQ-Practice-08-25-2026.md",

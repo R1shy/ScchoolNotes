@@ -20,8 +20,47 @@
               "icon": "lucide-file",
               "title": "HowToSolveAtwoodMachines"
             }
+          },
+          {
+            "id": "c303724079b98a4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classwork/CW-10-08-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW-10-08-2026"
+            }
+          },
+          {
+            "id": "6700625c775bc437",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CW-10-08-2026 2026-10-08 15.31.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CW-10-08-2026 2026-10-08 15.31.27.excalidraw"
+            }
+          },
+          {
+            "id": "b4a41ab2edfb5ce4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CW-10-08-2026 2026-10-08 15.23.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CW-10-08-2026 2026-10-08 15.23.11.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,17 +225,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1f242f5dae54db2",
+  "active": "c303724079b98a4e",
   "lastOpenFiles": [
-    "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
+    "Excalidraw/CW-10-08-2026 2026-10-08 15.31.27.excalidraw.md",
+    "Classwork/CW-10-08-2026.md",
+    "Excalidraw/CW-10-08-2026 2026-10-08 15.23.11.excalidraw.md",
+    "Untitled.md",
     "Definitions/HowToSolveAtwoodMachines.md",
+    "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
     "Classwork/CW-10-06-2026.md",
     "Classwork/DoNows.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
     "Excalidraw/DoNows 2026-10-06 15.03.23.excalidraw.svg.md",
     "Classwork/CW-10-05-2026.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.18.48.excalidraw.md",
-    "Untitled.md",
     "Excalidraw/DoNows 2026-10-05 14.59.32.excalidraw.md",
     "Excalidraw/Drawing 2026-10-05 14.59.07.excalidraw.md"
   ]
