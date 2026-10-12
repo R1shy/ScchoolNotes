@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SidewaysParabolas.md",
+                "file": "HW-10-07-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SidewaysParabolas"
+              "title": "HW-10-07-2026"
+            }
+          },
+          {
+            "id": "ffc526083b19ba8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW-10-13-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW-10-13-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,46 +235,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "583203d90a0f5ffb",
+  "active": "ffc526083b19ba8a",
   "lastOpenFiles": [
-    "graphs/desmos-graph-aa4d857af6a63d259809af67212e4c8c6c2deed4b9c79f2e559b07f467742c35.svg",
-    "graphs/desmos-graph-cfd8405c7ad335c57f0d075a80004a43f4fdc5a24b95d8117956e209aab69b86.svg",
-    "graphs/desmos-graph-95acdf788828c3641bfd3e995cf82d27b39d56852bc5bd000e5220831da470f6.svg",
-    "graphs/desmos-graph-4c1b410884d1252287c2e2196d69c7fed86d350ac08f5161ab8117fe6a672774.svg",
-    "graphs/desmos-graph-63b90a6221e2d59f0874d4b8e8ed3211f5fe6fb9bbdbc1a2ab3dbd7a2ee39efb.svg",
+    "graphs/desmos-graph-eea17c168f274371166f14e20507f4d74245c3c8becd68c8fe53b673e8ae4a92.svg",
+    "graphs/desmos-graph-876f6ae45527946b06adf9a68c75c3f899dab1abdeae44423c0c60e23d166258.svg",
+    "graphs/desmos-graph-cea29d1cb126707fbb09fa5fcc00a8d3527839deab897efae813ded1bf683bf1.svg",
+    "graphs/desmos-graph-aa9d2328864d457559ce67100d732b5b6fb1e9a58d974d1570e3f7906c46108d.svg",
+    "graphs/desmos-graph-d71529f4605c7e8b5ac5427fcd28a6f695ecc1d56c8f07329495a298c7254b51.svg",
+    "graphs/desmos-graph-1b72b13bca6008b159014d7497e47109f7b950aadbbe4a5da725d1776e50c19c.svg",
+    "graphs/desmos-graph-9a8c37a0ce013679709c1bb9a10cb07b614e538e2f47932d61f2c6640161abf2.svg",
+    "graphs/desmos-graph-59c7e26696a6b1ebbf2b92c8318d7ea3ba5fb19fa83c74ad3e640f9d3db2e85c.svg",
+    "graphs/desmos-graph-3d42bbf96fb7c55cda576081d6f8b458433f23c55d2e68e207bc59cd22bf97ad.svg",
+    "graphs/desmos-graph-49b0d257a7dccb22d42163fe5fc7b31c30089cf747301fb41bf7039d367c06f3.svg",
+    "graphs/desmos-graph-235366cc488d56215521ac48c7917ed94843b1048589c4813d796fde583d40c4.svg",
+    "HW-10-07-2026.md",
+    "HW-10-13-2026.md",
     "SidewaysParabolas.md",
-    "graphs/desmos-graph-0a0428c8b2e4e02ce0bced973acf8615a03b015bfda7aaf92495dea7fcb87f6a.svg",
     "Untitled.md",
     "CW-10-09-2026.md",
-    "graphs/desmos-graph-3bc423c24fe604356dd6b56dc1df3b7243ee810507f1cbcf1862fd29154be0ec.svg",
-    "graphs/desmos-graph-1bdfcec725639201d7ef186995cd9e9fc64fb081e0aa5a53c5f358baa18bd221.svg",
-    "graphs/desmos-graph-1c052b1f18172cc1c55aa330bc81ccd5f14ac22312ffe6fb492a3a6e8f44557c.svg",
-    "graphs/desmos-graph-1ca184fb9eb674ea6dd7a0ee43dcd4e25393769388f222c141221e7fe6af6edd.svg",
     "Ellipses.md",
-    "graphs/desmos-graph-82f9a1daa33550315415958e8d4054f1914ad30c97ba4f3e160aa399f0b16708.svg",
-    "HW-10-07-2026.md",
-    "Functions.md",
+    "Hyperbolas.md",
+    "SystemsOfQuadratics.md",
+    "NotableGraphFeatures.md",
+    "PowersOfI.md",
+    "PSF.md",
+    "HowToGoFromSTDToGraphEllipses.md",
+    "FactoringShortcuts.md",
+    "DefinitionsOfNumberSets.md",
     "EasyVertex.md",
+    "Functions.md",
     "CW-10-05-2026.md",
     "CW-10-06-2026.md",
     "HW-10-05-2026.md",
     "HW-08-25-2026.md",
-    "SystemsOfQuadratics.md",
     "CW-06-10-2026.md",
-    "Hyperbolas.md",
     "HW-10-02-2026.md",
-    "NotableGraphFeatures.md",
-    "HowToGoFromSTDToGraphEllipses.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
     "CW-10-02-2026.md",
-    "FactoringShortcuts.md",
     "CW-05-10-2026.md",
     "HW-09-30-2026.md",
-    "DefinitionsOfNumberSets.md",
-    "FactoringNotes.md",
-    "CW-09-16-2026.md",
-    "HW-09-25-2026.md",
     "Quads09112026",
     "graphs",
     "images",
