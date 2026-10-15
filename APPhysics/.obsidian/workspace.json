@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classwork/CW-10-13-2026.md",
+                "file": "Definitions/ForceOfFriction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CW-10-13-2026"
+              "title": "ForceOfFriction"
             }
           }
         ],
@@ -192,27 +192,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
   "active": "108d158c7069b678",
   "lastOpenFiles": [
-    "Excalidraw/CW-10-13-2026 2026-10-13 15.33.07.excalidraw.md",
     "Classwork/CW-10-13-2026.md",
+    "Definitions/ForceOfFriction.md",
+    "Untitled.md",
+    "Excalidraw/CW-10-13-2026 2026-10-13 15.33.07.excalidraw.md",
     "Definitions/AccelerationOfASystem.md",
     "Classwork/DoNows.md",
     "Definitions/HowToSolveAtwoodMachines.md",
     "Excalidraw/CW-10-08-2026 2026-10-08 15.23.11.excalidraw.md",
     "Excalidraw/CW-10-08-2026 2026-10-08 15.31.27.excalidraw.md",
     "Classwork/CW-10-08-2026.md",
-    "Untitled.md",
     "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
     "Classwork/CW-10-06-2026.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
