@@ -10,8 +10,8 @@
 | Jackson               | quitres                 | agua, lima, salsa, queso                | agregar, cocinar, pon, cortar   |
 | Cama                  | Tortilla Espanol        | Papas, huevos, cebolla                  | lavar, cortar, picar            |
 | Jin                   | Tostones                | Ajo, jugo de naranja, plantanos, aceite | Anadar, pon, frier, agregar     |
-|                       |                         |                                         |                                 |
-|                       |                         |                                         |                                 |
+| Linus                 | papas poratas           | patatas, pan, ajo                       | cortar, pon, anadar, agregar    |
+| Mathew P              | Sopes                   | Frijoles, ajo, agua                     | pon, cortar, picar, friar       |
 |                       |                         |                                         |                                 |
 |                       |                         |                                         |                                 |
 |                       |                         |                                         |                                 |

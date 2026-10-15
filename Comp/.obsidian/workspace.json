@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW-10-13-2026.md",
+                "file": "Hyperbolas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW-10-13-2026"
+              "title": "Hyperbolas"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,12 +232,21 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffc526083b19ba8a",
+  "active": "5e27c5c281b7375f",
   "lastOpenFiles": [
+    "NotableGraphFeatures.md",
+    "PerfectSquarePatterns.md",
+    "FactoringShortcuts.md",
+    "Functions.md",
+    "HowToGoFromSTDToGraphEllipses.md",
+    "DefinitionsOfNumberSets.md",
+    "EasyVertex.md",
+    "Ellipses.md",
+    "Hyperbolas.md",
+    "HW-10-13-2026.md",
     "graphs/desmos-graph-eea17c168f274371166f14e20507f4d74245c3c8becd68c8fe53b673e8ae4a92.svg",
     "graphs/desmos-graph-876f6ae45527946b06adf9a68c75c3f899dab1abdeae44423c0c60e23d166258.svg",
     "graphs/desmos-graph-cea29d1cb126707fbb09fa5fcc00a8d3527839deab897efae813ded1bf683bf1.svg",
@@ -247,23 +257,13 @@
     "graphs/desmos-graph-59c7e26696a6b1ebbf2b92c8318d7ea3ba5fb19fa83c74ad3e640f9d3db2e85c.svg",
     "graphs/desmos-graph-3d42bbf96fb7c55cda576081d6f8b458433f23c55d2e68e207bc59cd22bf97ad.svg",
     "graphs/desmos-graph-49b0d257a7dccb22d42163fe5fc7b31c30089cf747301fb41bf7039d367c06f3.svg",
-    "graphs/desmos-graph-235366cc488d56215521ac48c7917ed94843b1048589c4813d796fde583d40c4.svg",
     "HW-10-07-2026.md",
-    "HW-10-13-2026.md",
     "SidewaysParabolas.md",
     "Untitled.md",
     "CW-10-09-2026.md",
-    "Ellipses.md",
-    "Hyperbolas.md",
     "SystemsOfQuadratics.md",
-    "NotableGraphFeatures.md",
     "PowersOfI.md",
     "PSF.md",
-    "HowToGoFromSTDToGraphEllipses.md",
-    "FactoringShortcuts.md",
-    "DefinitionsOfNumberSets.md",
-    "EasyVertex.md",
-    "Functions.md",
     "CW-10-05-2026.md",
     "CW-10-06-2026.md",
     "HW-10-05-2026.md",

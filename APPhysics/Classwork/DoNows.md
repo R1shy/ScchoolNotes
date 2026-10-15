@@ -52,3 +52,12 @@ $F_{net}=M_{system}*1.625$
 $M_{system}=1kg+m$
 $9.8-m\times g=(1+m)(1.625)$
 $9.8-m\times g=1.625+1.625m$
+
+## 10/13/2026
+treat down / left as negative
+-7 + -5 = -12
+-12 + (2+3)
+-12 + 5
+-7
+magnitude is absolute though
+so $7N$
