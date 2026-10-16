@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1f242f5dae54db2",
+            "id": "8b3f19d7813ba728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classwork/CW-10-13-2026.md",
+                "file": "Classwork/CW-10-15-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CW-10-13-2026"
-            }
-          },
-          {
-            "id": "108d158c7069b678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/ForceOfFriction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ForceOfFriction"
+              "title": "CW-10-15-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,22 +187,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "108d158c7069b678",
+  "active": "8b3f19d7813ba728",
   "lastOpenFiles": [
+    "Excalidraw/CW-10-15-2026 2026-10-15 15.35.30.excalidraw.svg.md",
+    "Classwork/CW-10-15-2026.md",
     "Classwork/CW-10-13-2026.md",
+    "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
+    "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
+    "Excalidraw/CW-10-08-2026 2026-10-08 15.23.11.excalidraw.md",
+    "Excalidraw/CW-10-15-2026 2026-10-15 15.16.01.excalidraw.md",
+    "Excalidraw/CW-10-13-2026 2026-10-13 15.33.07.excalidraw.md",
+    "Excalidraw/DoNows 2026-10-06 15.03.23.excalidraw.svg.md",
     "Definitions/ForceOfFriction.md",
     "Untitled.md",
-    "Excalidraw/CW-10-13-2026 2026-10-13 15.33.07.excalidraw.md",
     "Definitions/AccelerationOfASystem.md",
     "Classwork/DoNows.md",
     "Definitions/HowToSolveAtwoodMachines.md",
-    "Excalidraw/CW-10-08-2026 2026-10-08 15.23.11.excalidraw.md",
     "Excalidraw/CW-10-08-2026 2026-10-08 15.31.27.excalidraw.md",
     "Classwork/CW-10-08-2026.md",
-    "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
     "Classwork/CW-10-06-2026.md",
-    "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
-    "Excalidraw/DoNows 2026-10-06 15.03.23.excalidraw.svg.md",
     "Classwork/CW-10-05-2026.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.18.48.excalidraw.md",
     "Excalidraw/DoNows 2026-10-05 14.59.32.excalidraw.md",
