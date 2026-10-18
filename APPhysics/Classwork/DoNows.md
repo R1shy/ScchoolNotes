@@ -61,3 +61,14 @@ treat down / left as negative
 -7
 magnitude is absolute though
 so $7N$
+
+
+
+## 10/16/2026
+![[DoNows 2026-10-16 15.09.16.excalidraw.svg|200]]
+$F_y=\cos(20)200$
+$F_x=\cos(20)200$
+$F_x=187.938524157$
+$F_y=187.938524157$
+$F_t=0=F_x+F_y+F$
+$$

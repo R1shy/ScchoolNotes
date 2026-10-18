@@ -1,0 +1,1 @@
+$F=cos(\Theta)forcewhenrotated$
