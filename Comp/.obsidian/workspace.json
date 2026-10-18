@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a7920c723cacdfd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exponents.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exponents"
-            }
-          },
-          {
             "id": "548e6b135b048f22",
             "type": "leaf",
             "state": {
@@ -32,9 +20,20 @@
               "icon": "lucide-file",
               "title": "HW-10-16-2026"
             }
+          },
+          {
+            "id": "490e09b8d777b70c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exponents.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exponents"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
