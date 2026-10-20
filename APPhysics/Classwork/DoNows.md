@@ -78,3 +78,7 @@ $F_t=0=F_x+F_y+F$
 ![[DoNows 2026-10-19 15.04.19.excalidraw]]
 idk bro
 
+
+## 10/20/2026
+T1 = T2 = mg = 2.5 * g = 24.5
+horizontal = t1cos(30) + t2cos(30) - F = 0 

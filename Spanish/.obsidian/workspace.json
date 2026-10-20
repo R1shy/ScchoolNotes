@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CW-19-10-2026.md",
+                "file": "CW-20-10-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CW-19-10-2026"
+              "title": "CW-20-10-2026"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "CW-20-10-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,10 +233,11 @@
   },
   "active": "cbd13c4064716220",
   "lastOpenFiles": [
+    "HazlaAhoras/05-10-2026.md",
+    "CW-.md",
+    "CW-20-10-2026.md",
     "Untitled.md",
     "CW-19-10-2026.md",
-    "CW-.md",
-    "HazlaAhoras/05-10-2026.md",
     "CW-16-10-2026.md",
     "HazlaAhoras/21-09-2026-02-10-2026.md",
     "CW-14-10-2026.md",
@@ -258,7 +259,6 @@
     "CW-23-09-2026.md",
     "CW-21-09-2026.md",
     "CW-18-09-2026.md",
-    "CW-09-11-2026.md",
     "Untitled.canvas",
     "HazlaAhoras"
   ]
