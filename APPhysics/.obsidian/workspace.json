@@ -22,18 +22,33 @@
             }
           },
           {
-            "id": "74ce6b57221de846",
+            "id": "44f6a7b8579e53ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classwork/CW-10-19-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW-10-19-2026"
+            }
+          },
+          {
+            "id": "0e9d6a3120f5d297",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CW-10-16-2026 2026-10-16 15.32.37.excalidraw.md"
+                "file": "Excalidraw/CW-10-19-2026 2026-10-19 15.34.54.excalidraw.svg.md"
               },
               "icon": "excalidraw-icon",
-              "title": "CW-10-16-2026 2026-10-16 15.32.37.excalidraw"
+              "title": "CW-10-19-2026 2026-10-19 15.34.54.excalidraw.svg"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,12 +214,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e92bee828444336",
+  "active": "44f6a7b8579e53ee",
   "lastOpenFiles": [
-    "Excalidraw/CW-10-16-2026 2026-10-16 15.32.37.excalidraw.md",
-    "Classwork/CW-10-16-2026.md",
-    "Classwork/DoNows.md",
+    "Excalidraw/CW-10-19-2026 2026-10-19 15.34.54.excalidraw.svg.md",
+    "Classwork/CW-10-19-2026.md",
+    "Excalidraw/CW-10-19-2026 2026-10-19 15.30.08.excalidraw.svg.md",
+    "Definitions/FeelerDealerForceNotation.md",
     "Classwork/CW-02-10-2026.md",
+    "Excalidraw/DoNows 2026-10-19 15.04.19.excalidraw.md",
+    "Untitled.md",
+    "Classwork/CW-10-16-2026.md",
+    "Definitions/NewtonsThirdLaw.md",
+    "Definitions/DoNows.md",
+    "Classwork/CW-10-13-2026.md",
+    "Excalidraw/CW-10-16-2026 2026-10-16 15.32.37.excalidraw.md",
     "Excalidraw/DoNows 2026-10-16 15.09.16.excalidraw.svg.md",
     "Excalidraw/CW-10-06-2026 2026-10-06 15.35.32.excalidraw.md",
     "Excalidraw/CW-10-05-2026 2026-10-05 15.29.05.excalidraw.svg.md",
@@ -218,14 +241,6 @@
     "Definitions/AccelerationOfASystem.md",
     "Definitions/MeanAverage.md",
     "Definitions/ForceApplied-Newtons-Second-Law.md",
-    "Definitions/ForceOfFriction.md",
-    "Definitions/FreeBodyDiagram.md",
-    "Definitions/HowToSolveAtwoodMachines.md",
-    "Definitions/KinematicEquations.md",
-    "Definitions/Magnitude.md",
-    "Definitions/Mass.md",
-    "Definitions/MiscImportantNotes.md",
-    "Excalidraw/CW-10-15-2026 2026-10-15 15.35.30.excalidraw.svg.md",
-    "Classwork/CW-10-13-2026.md"
+    "Definitions/ForceOfFriction.md"
   ]
 }
