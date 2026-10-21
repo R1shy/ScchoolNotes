@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a3a47019bd3acd3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exponents.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exponents"
-            }
-          },
-          {
-            "id": "db075d84cc1f999c",
+            "id": "548e6b135b048f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +20,20 @@
               "icon": "lucide-file",
               "title": "HW-10-20-2026"
             }
+          },
+          {
+            "id": "490e09b8d777b70c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exponents.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exponents"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,29 +218,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db075d84cc1f999c",
+  "active": "548e6b135b048f22",
   "lastOpenFiles": [
     "Exponents.pdf",
     "HW-10-20-2026.md",
-    "CW-10-20-2026.md",
-    "Untitled.md",
-    "CW-06-10-2026.md",
     "HW-10-16-2026.md",
     "ExpEquations.md",
-    "DefinitionsOfNumberSets.md",
-    "PowersOfI.md",
-    "HW-10-13-2026.md",
-    "CW-10-16-2026.md",
+    "CW-10-20-2026.md",
     "CW-10-19-2026.md",
+    "CW-10-16-2026.md",
     "FactoringNotes.md",
+    "CW-10-160-2026.md",
     "Hyperbolas.md",
     "NotableGraphFeatures.md",
     "PerfectSquarePatterns.md",
     "FactoringShortcuts.md",
     "Functions.md",
     "HowToGoFromSTDToGraphEllipses.md",
+    "DefinitionsOfNumberSets.md",
     "EasyVertex.md",
     "Ellipses.md",
+    "HW-10-13-2026.md",
     "graphs/desmos-graph-eea17c168f274371166f14e20507f4d74245c3c8becd68c8fe53b673e8ae4a92.svg",
     "graphs/desmos-graph-876f6ae45527946b06adf9a68c75c3f899dab1abdeae44423c0c60e23d166258.svg",
     "graphs/desmos-graph-cea29d1cb126707fbb09fa5fcc00a8d3527839deab897efae813ded1bf683bf1.svg",
@@ -254,8 +251,10 @@
     "graphs/desmos-graph-49b0d257a7dccb22d42163fe5fc7b31c30089cf747301fb41bf7039d367c06f3.svg",
     "HW-10-07-2026.md",
     "SidewaysParabolas.md",
+    "Untitled.md",
     "CW-10-09-2026.md",
     "SystemsOfQuadratics.md",
+    "PowersOfI.md",
     "PSF.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
