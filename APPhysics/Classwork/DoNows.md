@@ -81,4 +81,10 @@ idk bro
 
 ## 10/20/2026
 T1 = T2 = mg = 2.5 * g = 24.5
-horizontal = t1cos(30) + t2cos(30) - F = 0 
+horizontal = t1cos(30) + t2cos(30) - F = 0
+
+
+
+## 10/23/2026
+![[DoNows 2026-10-23 14.59.05.excalidraw.svg|300]]
+![[DoNows 2026-10-23 15.00.11.excalidraw.svg|400]]

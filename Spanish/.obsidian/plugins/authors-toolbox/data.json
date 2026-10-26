@@ -1,0 +1,91 @@
+{
+  "imageFolder": "",
+  "defaultWidth": 400,
+  "defaultAlign": "center",
+  "panelTab": "overview",
+  "panelAutoOpened": true,
+  "defaultLang": "es",
+  "readingWpm": 230,
+  "speakingWpm": 150,
+  "longSentence": 35,
+  "echoWindow": 40,
+  "crutchEn": "",
+  "crutchEs": "",
+  "defaultGoal": 0,
+  "daily": {
+    "2026-10-23": {
+      "HazlaAhoras/19-10-2026.md": {
+        "s": 78,
+        "l": 78
+      },
+      "CW-23-10-2026.md": {
+        "s": 0,
+        "l": 99
+      },
+      "CW-26-10-2026.md": {
+        "s": 0,
+        "l": 0
+      }
+    },
+    "2026-10-26": {
+      "CW-23-10-2026.md": {
+        "s": 99,
+        "l": 99
+      },
+      "HazlaAhoras/19-10-2026.md": {
+        "s": 99,
+        "l": 100
+      },
+      "CW-07-10-2026.md": {
+        "s": 100,
+        "l": 56
+      },
+      "CW-26-10-2026.md": {
+        "s": 0,
+        "l": 81
+      }
+    }
+  },
+  "ltConsent": true,
+  "ltServer": "https://api.languagetool.org",
+  "ltUser": "",
+  "ltKey": "",
+  "ltPicky": false,
+  "ltDictionary": "",
+  "ltDisabledRules": "WHITESPACE_RULE",
+  "checkScope": "section",
+  "panelTabScript": "sp-stats",
+  "scriptsFolder": "Scripts",
+  "smartEnter": true,
+  "authorName": "",
+  "autoRaya": true,
+  "storyFolders": "",
+  "exportLayout": "manuscript",
+  "exportFormats": "docx,pdf",
+  "exportKeepJustify": false,
+  "exportSceneBreak": "#",
+  "exportCoverPage": false,
+  "exportPresets": {},
+  "linesAsParagraphs": false,
+  "dailyGoal": 0,
+  "writingFolders": "",
+  "sprintMinutes": 25,
+  "sprintTarget": 500,
+  "sprints": [],
+  "habitsRange": "30",
+  "exportFont": "times",
+  "exportSpacing": "2",
+  "exportPage": "letter",
+  "exportContact": "",
+  "exportPseudonym": "",
+  "exportChapterBreaks": false,
+  "autoDrafts": true,
+  "autoDraftDays": 30,
+  "draftsFolder": ".authors-toolbox/drafts",
+  "revisionShow": "changes",
+  "contestsFolder": "",
+  "submissionsFolder": ".authors-toolbox/submissions",
+  "noticeDays": 14,
+  "showNextDeadline": true,
+  "noticeDay": ""
+}
