@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "ExponentialDecay"
             }
+          },
+          {
+            "id": "bed0151756db86cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CW-10-26-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW-10-26-2026"
+            }
+          },
+          {
+            "id": "e9aab20302ccae62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InterestEquations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InterestEquations"
+            }
+          },
+          {
+            "id": "00f89798213d40a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "665099d7837a8b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW-10-26-206.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW-10-26-206"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,12 +263,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e340fad3275526dc",
+  "active": "665099d7837a8b3f",
   "lastOpenFiles": [
+    "graphs/desmos-graph-a2f22f6d8bed6b39da5ba85962aaa89206e238d7b5301337004052b2a7a7b331.svg",
+    "graphs/desmos-graph-3c825fb5de8a33c5c34ccd38292a8466fb59cdda597a95810215fe9013986bd7.svg",
+    "graphs/desmos-graph-ea47a7dce282931aa647e91238a12ebcefa293ec074d4d75b4825c50a55f5829.svg",
+    "graphs/desmos-graph-ff6dd18f03c6efa46d618c665bcc314a8b9de8f763cfb6773c04afd1381fb71b.svg",
+    "graphs/desmos-graph-528d1292b6f82895971ae365e45b5735010f1babe0d36cd3b0595da2db7316ff.svg",
+    "graphs/desmos-graph-2c14bba2d3c2356b6af0cfd7bc4e620af3f2e64c31c69551ec1141ac538559f0.svg",
+    "graphs/desmos-graph-2274e62b85699563a2de14cf8e5e0820da511485de9bfa02dc78a5028c8015e9.svg",
+    "graphs/desmos-graph-274cb0b57a092cccb1adec4587e547184dec71986a6994bf611e7000089931b3.svg",
+    "Untitled.md",
+    "HW-10-26-206.md",
+    "InterestEquations.md",
+    "CW-10-26-2026.md",
+    "ExponentialDecay.md",
     "HW-10-21-2026.md",
     "CW-10-23-2026.md",
     "ExpEquations.md",
-    "ExponentialDecay.md",
     "CW-05-10-2026.md",
     "graphs/desmos-graph-a675223455a65b4394b73b7b77c261dc7c05979773a9dbe4aef31fcd997b7cf1.svg",
     "ExponentsAndStuff.md",
@@ -231,20 +300,8 @@
     "FactoringShortcuts.md",
     "Functions.md",
     "DefinitionsOfNumberSets.md",
-    "EasyVertex.md",
-    "Ellipses.md",
-    "HW-10-13-2026.md",
     "graphs/desmos-graph-eea17c168f274371166f14e20507f4d74245c3c8becd68c8fe53b673e8ae4a92.svg",
     "graphs/desmos-graph-876f6ae45527946b06adf9a68c75c3f899dab1abdeae44423c0c60e23d166258.svg",
-    "graphs/desmos-graph-cea29d1cb126707fbb09fa5fcc00a8d3527839deab897efae813ded1bf683bf1.svg",
-    "graphs/desmos-graph-aa9d2328864d457559ce67100d732b5b6fb1e9a58d974d1570e3f7906c46108d.svg",
-    "graphs/desmos-graph-d71529f4605c7e8b5ac5427fcd28a6f695ecc1d56c8f07329495a298c7254b51.svg",
-    "graphs/desmos-graph-1b72b13bca6008b159014d7497e47109f7b950aadbbe4a5da725d1776e50c19c.svg",
-    "graphs/desmos-graph-9a8c37a0ce013679709c1bb9a10cb07b614e538e2f47932d61f2c6640161abf2.svg",
-    "graphs/desmos-graph-59c7e26696a6b1ebbf2b92c8318d7ea3ba5fb19fa83c74ad3e640f9d3db2e85c.svg",
-    "graphs/desmos-graph-3d42bbf96fb7c55cda576081d6f8b458433f23c55d2e68e207bc59cd22bf97ad.svg",
-    "HW-10-07-2026.md",
-    "SidewaysParabolas.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
     "Quads09112026",
