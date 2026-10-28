@@ -39,12 +39,14 @@
             "id": "bd4fce9de857ff38",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/cw-10-26-2026 2026-10-26 15.08.34.excalidraw.md"
+                "file": "Definitions/SpringsAndStuff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "cw-10-26-2026 2026-10-26 15.08.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "SpringsAndStuff"
             }
           }
         ],
@@ -216,8 +218,9 @@
   },
   "active": "bd4fce9de857ff38",
   "lastOpenFiles": [
-    "Classwork/cw-10-26-2026.md",
     "Excalidraw/cw-10-26-2026 2026-10-26 15.08.34.excalidraw.md",
+    "Definitions/SpringsAndStuff.md",
+    "Classwork/cw-10-26-2026.md",
     "Excalidraw/CW-10-23-2026 2026-10-23 15.14.01.excalidraw.md",
     "Classwork/CW-10-23-2026.md",
     "Classwork/DoNows.md",
@@ -240,7 +243,6 @@
     "Excalidraw/CW-10-13-2026 2026-10-13 15.33.07.excalidraw.md",
     "Excalidraw/CW-10-15-2026 2026-10-15 15.16.01.excalidraw.md",
     "Definitions/RotateEquation.md",
-    "Classwork/CW-10-15-2026.md",
-    "Definitions/Acceleration.md"
+    "Classwork/CW-10-15-2026.md"
   ]
 }
