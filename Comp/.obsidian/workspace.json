@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e340fad3275526dc",
+            "id": "5c0f4553cc57f1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExponentialDecay.md",
+                "file": "ApplicationsOfExpGrowthDecay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ExponentialDecay"
-            }
-          },
-          {
-            "id": "bed0151756db86cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CW-10-26-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CW-10-26-2026"
-            }
-          },
-          {
-            "id": "e9aab20302ccae62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InterestEquations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "InterestEquations"
-            }
-          },
-          {
-            "id": "00f89798213d40a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "665099d7837a8b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HW-10-26-206.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW-10-26-206"
+              "title": "ApplicationsOfExpGrowthDecay"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +206,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "665099d7837a8b3f",
+  "active": "5c0f4553cc57f1c1",
   "lastOpenFiles": [
-    "ExponentEquationsAndStuff.md",
+    "EasyVertex.md",
+    "ExponentialDecay.md",
+    "FactoringNotes.md",
+    "FactoringShortcuts.md",
+    "Functions.md",
+    "Hyperbolas.md",
+    "NotableGraphFeatures.md",
+    "InterestEquations.md",
+    "PowersOfI.md",
+    "ExpEquations.md",
+    "ExponentsAndStuff.md",
+    "Exponents.pdf",
+    "CW-10-27-2026.md",
     "HW-10-26-206.md",
+    "ExponentEquationsAndStuff.md",
+    "ApplicationsOfExpGrowthDecay.md",
+    "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
+    "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
+    "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",
+    "graphs/desmos-graph-5661469a806d7174c59dfc8f3a700166968c0c7d326cfc9fd80ff2fc07ef7ae4.svg",
     "Untitled",
     "graphs/desmos-graph-a2f22f6d8bed6b39da5ba85962aaa89206e238d7b5301337004052b2a7a7b331.svg",
     "graphs/desmos-graph-3c825fb5de8a33c5c34ccd38292a8466fb59cdda597a95810215fe9013986bd7.svg",
@@ -274,19 +235,10 @@
     "graphs/desmos-graph-ff6dd18f03c6efa46d618c665bcc314a8b9de8f763cfb6773c04afd1381fb71b.svg",
     "graphs/desmos-graph-528d1292b6f82895971ae365e45b5735010f1babe0d36cd3b0595da2db7316ff.svg",
     "graphs/desmos-graph-2c14bba2d3c2356b6af0cfd7bc4e620af3f2e64c31c69551ec1141ac538559f0.svg",
-    "graphs/desmos-graph-2274e62b85699563a2de14cf8e5e0820da511485de9bfa02dc78a5028c8015e9.svg",
-    "graphs/desmos-graph-274cb0b57a092cccb1adec4587e547184dec71986a6994bf611e7000089931b3.svg",
-    "Untitled.md",
-    "InterestEquations.md",
     "CW-10-26-2026.md",
-    "ExponentialDecay.md",
     "HW-10-21-2026.md",
     "CW-10-23-2026.md",
-    "ExpEquations.md",
     "CW-05-10-2026.md",
-    "graphs/desmos-graph-a675223455a65b4394b73b7b77c261dc7c05979773a9dbe4aef31fcd997b7cf1.svg",
-    "ExponentsAndStuff.md",
-    "Exponents.pdf",
     "HowToGoFromSTDToGraphEllipses.md",
     "HW-10-20-2026.md",
     "CW-10-21-2026.md",
@@ -294,15 +246,6 @@
     "CW-10-20-2026.md",
     "CW-10-19-2026.md",
     "CW-10-16-2026.md",
-    "FactoringNotes.md",
-    "CW-10-160-2026.md",
-    "Hyperbolas.md",
-    "NotableGraphFeatures.md",
-    "PerfectSquarePatterns.md",
-    "FactoringShortcuts.md",
-    "Functions.md",
-    "DefinitionsOfNumberSets.md",
-    "graphs/desmos-graph-eea17c168f274371166f14e20507f4d74245c3c8becd68c8fe53b673e8ae4a92.svg",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
     "Quads09112026",
