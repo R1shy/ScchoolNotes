@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApplicationsOfExpGrowthDecay.md",
+                "file": "HW-10-28-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ApplicationsOfExpGrowthDecay"
-            }
-          },
-          {
-            "id": "3d52781d564bf225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DecayAndStuff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DecayAndStuff"
+              "title": "HW-10-28-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +206,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d52781d564bf225",
+  "active": "5c0f4553cc57f1c1",
   "lastOpenFiles": [
     "ApplicationsOfExpGrowthDecay.md",
-    "DecayAndStuff.md",
     "HW-10-28-2026.md",
+    "DecayAndStuff.md",
     "EquationThatPassesThroughPoints.md",
     "CW-10-28-2026.md",
     "EasyVertex.md",
