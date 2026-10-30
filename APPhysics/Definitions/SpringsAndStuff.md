@@ -1,14 +1,12 @@
 ## Spring Constant
+$F_s=-k\times\Delta x$
+$k$ is the spring constant
+$x$ is the distance stretched / compressed from equilibrium
+$F$ is the force that creates the stretch / compression
 the spring constant represents how stiff a spring is
 springs that are harder to  pull / push have a higher spring constant
 spring constant is represented by $k$
 
-
-### How to find the spring constant
-$F=kx$
-$k$ is the spring constant (WE DON'T KNOW THIS)
-$x$ is the distance stretched / compressed from equilibrium
-$F$ is the force that creates the stretch / compression
 
 ### Way to find number 1
 hang a spring
