@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "HW-10-28-2026"
             }
+          },
+          {
+            "id": "b43891731b64970e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CW-10-30-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW-10-30-2026"
+            }
+          },
+          {
+            "id": "e2408a96d6c0da26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW-10-30-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW-10-30-2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,28 +235,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c0f4553cc57f1c1",
+  "active": "e2408a96d6c0da26",
   "lastOpenFiles": [
-    "ApplicationsOfExpGrowthDecay.md",
+    "InterestEquations.md",
+    "HW-10-30-2026.md",
+    "ExponentEquationsAndStuff.md",
+    "ExpEquations.md",
+    "ExponentsAndStuff.md",
+    "ExponentialDecay.md",
+    "Exponents.pdf",
+    "PowersOfI.md",
+    "CW-10-30-2026.md",
+    "graphs/desmos-graph-41209a266e6442a4db27298cad73855a1752414ee341ac9564ead07c8858f80e.svg",
+    "graphs/desmos-graph-f84b854f70bdc9cf81517b608bbd83562e7125a639359ba52366290cd4b5ded1.svg",
     "HW-10-28-2026.md",
+    "ApplicationsOfExpGrowthDecay.md",
     "DecayAndStuff.md",
     "EquationThatPassesThroughPoints.md",
     "CW-10-28-2026.md",
     "EasyVertex.md",
-    "ExponentialDecay.md",
     "FactoringNotes.md",
     "FactoringShortcuts.md",
     "Functions.md",
     "Hyperbolas.md",
     "NotableGraphFeatures.md",
-    "InterestEquations.md",
-    "PowersOfI.md",
-    "ExpEquations.md",
-    "ExponentsAndStuff.md",
-    "Exponents.pdf",
     "CW-10-27-2026.md",
     "HW-10-26-206.md",
-    "ExponentEquationsAndStuff.md",
     "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
     "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
     "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",
@@ -237,15 +270,10 @@
     "graphs/desmos-graph-3c825fb5de8a33c5c34ccd38292a8466fb59cdda597a95810215fe9013986bd7.svg",
     "graphs/desmos-graph-ea47a7dce282931aa647e91238a12ebcefa293ec074d4d75b4825c50a55f5829.svg",
     "graphs/desmos-graph-ff6dd18f03c6efa46d618c665bcc314a8b9de8f763cfb6773c04afd1381fb71b.svg",
-    "graphs/desmos-graph-528d1292b6f82895971ae365e45b5735010f1babe0d36cd3b0595da2db7316ff.svg",
-    "graphs/desmos-graph-2c14bba2d3c2356b6af0cfd7bc4e620af3f2e64c31c69551ec1141ac538559f0.svg",
     "CW-10-26-2026.md",
     "HW-10-21-2026.md",
     "CW-10-23-2026.md",
     "CW-05-10-2026.md",
-    "HowToGoFromSTDToGraphEllipses.md",
-    "HW-10-20-2026.md",
-    "CW-10-21-2026.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
     "Quads09112026",
