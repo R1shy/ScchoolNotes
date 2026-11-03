@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Presentations-de-voluntario"
             }
+          },
+          {
+            "id": "3be1487a757da892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CW-03-11-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW-03-11-2026"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,11 +245,12 @@
       "authors-toolbox:Submissions": false
     }
   },
-  "active": "743f6f3b48253a9a",
+  "active": "3be1487a757da892",
   "lastOpenFiles": [
-    "CW-16-10-2026.md",
     "Presentations-de-voluntario.md",
+    "CW-03-11-2026.md",
     "HazlaAhoras/19-10-2026.md",
+    "CW-16-10-2026.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Pres.md",
@@ -258,7 +273,6 @@
     "QuestionWords.md",
     "Registro-de-Leer.md",
     "Los-videos-de-cocinar.md",
-    "CW-15-09-2026.md",
     "Untitled.canvas",
     "HazlaAhoras"
   ]

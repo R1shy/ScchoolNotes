@@ -1,0 +1,1 @@
+When the only significant force acting on an object is gravity it is in free fall
