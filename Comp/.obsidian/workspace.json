@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "HW-11-04-2026"
             }
+          },
+          {
+            "id": "528a77422736b5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW-11-06-2i026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW-11-06-2i026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +221,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "599fa606682a1778",
+  "active": "528a77422736b5fe",
   "lastOpenFiles": [
     "PropertiesOfLogs.md",
-    "Untitled.md",
     "HW-11-04-2026.md",
+    "PowersOfI.md",
+    "PerfectSquarePatterns.md",
+    "HW-11-06-2i026.md",
     "DefinitionsOfLogarithms.md",
     "CW-08-21-2026.md",
     "CW-11-04-2026.md",
@@ -222,7 +239,6 @@
     "ExpEquations.md",
     "ExponentsAndStuff.md",
     "ExponentialDecay.md",
-    "PowersOfI.md",
     "CW-10-30-2026.md",
     "graphs/desmos-graph-41209a266e6442a4db27298cad73855a1752414ee341ac9564ead07c8858f80e.svg",
     "graphs/desmos-graph-f84b854f70bdc9cf81517b608bbd83562e7125a639359ba52366290cd4b5ded1.svg",
@@ -236,7 +252,6 @@
     "FactoringShortcuts.md",
     "Functions.md",
     "Hyperbolas.md",
-    "NotableGraphFeatures.md",
     "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
     "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
     "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",

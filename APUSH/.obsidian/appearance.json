@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "Inter"
 }

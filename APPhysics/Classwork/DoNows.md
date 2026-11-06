@@ -3,7 +3,7 @@
 
 I am interested in learning more about distance and velocity.
 
-## 08/20/2026
+## 08/20/2026[[Untitled]]
 
 1. 10
 2. 8
@@ -88,3 +88,6 @@ horizontal = t1cos(30) + t2cos(30) - F = 0
 ## 10/23/2026
 ![[DoNows 2026-10-23 14.59.05.excalidraw.svg|300]]
 ![[DoNows 2026-10-23 15.00.11.excalidraw.svg|400]]
+## 11/06/2026
+1. $\frac{4}{3}\pi15^3$ = $\frac{4}{3}\pi3375$ = $4.18879020479\cdot3375$ = ~$14137.16$
+2. $\pi3^2\cdot10$ = $\pi9\cdot10$ = $90\pi$ = ~$282.74$
