@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PropertiesOfLogs.md",
+                "file": "HW-11-04-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PropertiesOfLogs"
+              "title": "HW-11-04-2026"
             }
           }
         ]
@@ -208,9 +208,10 @@
   },
   "active": "599fa606682a1778",
   "lastOpenFiles": [
+    "PropertiesOfLogs.md",
+    "Untitled.md",
     "HW-11-04-2026.md",
     "DefinitionsOfLogarithms.md",
-    "PropertiesOfLogs.md",
     "CW-08-21-2026.md",
     "CW-11-04-2026.md",
     "Exponents.pdf",
@@ -236,7 +237,6 @@
     "Functions.md",
     "Hyperbolas.md",
     "NotableGraphFeatures.md",
-    "CW-10-27-2026.md",
     "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
     "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
     "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",
