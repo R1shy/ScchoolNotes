@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "GravitationalFieldStrength"
             }
-          },
-          {
-            "id": "366b6e2f2102afbc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-05 15.25.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-05 15.25.17.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +187,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "366b6e2f2102afbc",
+  "active": "70c6c160e3748566",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2026-11-05 15.25.17.excalidraw.md",
+    "Untitled.md",
     "Definitions/GravitationalFieldStrength.md",
     "Classwork/CW-11-02-2026.md",
     "Excalidraw/CW-11-02-2026 2026-11-02 15.30.17.excalidraw.svg.md",
