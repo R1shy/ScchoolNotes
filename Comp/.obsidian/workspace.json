@@ -20,21 +20,35 @@
             }
           },
           {
-            "id": "d30b3d27c4eaaecd",
+            "id": "fdaddd69cfe6e92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExponentsPracticeTestAnswers.md",
+                "file": "DefinitionsOfLogarithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ExponentsPracticeTestAnswers"
+              "title": "DefinitionsOfLogarithms"
+            }
+          },
+          {
+            "id": "5f69053f48337a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW-11-04-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HW-11-04-2026"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,11 +233,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d30b3d27c4eaaecd",
+  "active": "5f69053f48337a69",
   "lastOpenFiles": [
-    "HW-10-30-2026.md",
-    "ExponentsPracticeTestAnswers.md",
+    "CW-08-21-2026.md",
+    "DefinitionsOfLogarithms.md",
+    "HW-11-04-2026.md",
+    "CW-11-04-2026.md",
     "Exponents.pdf",
+    "ExponentsPracticeTestAnswers.md",
+    "HW-10-30-2026.md",
     "InterestEquations.md",
     "ExponentEquationsAndStuff.md",
     "ExpEquations.md",
@@ -255,9 +273,6 @@
     "graphs/desmos-graph-3c825fb5de8a33c5c34ccd38292a8466fb59cdda597a95810215fe9013986bd7.svg",
     "graphs/desmos-graph-ea47a7dce282931aa647e91238a12ebcefa293ec074d4d75b4825c50a55f5829.svg",
     "graphs/desmos-graph-ff6dd18f03c6efa46d618c665bcc314a8b9de8f763cfb6773c04afd1381fb71b.svg",
-    "CW-10-26-2026.md",
-    "HW-10-21-2026.md",
-    "CW-10-23-2026.md",
     "Quads09092026.pdf",
     "Quads09112026.pdf",
     "Quads09112026",
