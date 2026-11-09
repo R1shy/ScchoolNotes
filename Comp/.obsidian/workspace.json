@@ -217,8 +217,7 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "528a77422736b5fe",
