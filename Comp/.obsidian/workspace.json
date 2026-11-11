@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "599fa606682a1778",
+            "id": "3135b7c6cc3811f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW-11-04-2026.md",
+                "file": "ContinousInterestFormula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW-11-04-2026"
-            }
-          },
-          {
-            "id": "528a77422736b5fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HW-11-06-2i026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW-11-06-2i026"
-            }
-          },
-          {
-            "id": "53a20e220feb25e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BaseChange.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BaseChange"
+              "title": "ContinousInterestFormula"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -234,10 +206,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53a20e220feb25e6",
+  "active": "3135b7c6cc3811f8",
   "lastOpenFiles": [
-    "HW-11-06-2i026.md",
     "BaseChange.md",
+    "HW-11-06-2i026.md",
+    "ContinousInterestFormula.md",
     "PropertiesOfLogs.md",
     "HW-11-04-2026.md",
     "PowersOfI.md",
@@ -264,7 +237,6 @@
     "EasyVertex.md",
     "FactoringNotes.md",
     "FactoringShortcuts.md",
-    "Functions.md",
     "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
     "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
     "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",
