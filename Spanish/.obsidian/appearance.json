@@ -3,5 +3,6 @@
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "showRibbon": true
 }

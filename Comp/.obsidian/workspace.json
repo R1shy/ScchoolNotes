@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c04dc85af804e3",
+        "id": "b8302858adea4c24",
         "type": "tabs",
         "children": [
           {
-            "id": "3135b7c6cc3811f8",
+            "id": "771feff81c64ab1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ContinousInterestFormula.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ContinousInterestFormula"
-            }
-          },
-          {
-            "id": "dff31a3b76f3e3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HW-11-10-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW-11-10-2026"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,9 +202,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dff31a3b76f3e3e3",
+  "active": "771feff81c64ab1e",
   "lastOpenFiles": [
     "ContinousInterestFormula.md",
+    "CW-11-12-2026.md",
     "HW-11-10-2026.md",
     "BaseChange.md",
     "HW-11-06-2i026.md",
@@ -251,7 +233,6 @@
     "EquationThatPassesThroughPoints.md",
     "CW-10-28-2026.md",
     "EasyVertex.md",
-    "FactoringNotes.md",
     "graphs/desmos-graph-3c695d94d42a3426f034d9c2b630d12092ef907667f854070737311131bf36ec.svg",
     "graphs/desmos-graph-4724632770a75bd35281ea504d763c1651a537b8348594da736223d7383c584e.svg",
     "graphs/desmos-graph-cf8b58664d99a4e0e643bf468b308539e52d1b770054d486a4800046f06f2886.svg",
