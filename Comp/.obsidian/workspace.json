@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "HW-11-13-2026"
             }
-          },
-          {
-            "id": "509adff4986f135b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "USub"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +206,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "509adff4986f135b",
+  "active": "6582f8998645bfc0",
   "lastOpenFiles": [
-    "HW-11-13-2026.md",
     "USub.md",
+    "HW-11-13-2026.md",
     "CW-11-13-2026.md",
     "CW.md",
     "ContinousInterestFormula.md",
