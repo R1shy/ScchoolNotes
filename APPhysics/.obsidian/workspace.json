@@ -11,10 +11,38 @@
             "id": "0200227e3f985c1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Classwork/CW-11-13-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CW-11-13-2026"
+            }
+          },
+          {
+            "id": "c3ecb98daf93d12d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CW-11-13-2026 2026-11-13 15.28.28.excalidraw.svg.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CW-11-13-2026 2026-11-13 15.28.28.excalidraw.svg"
+            }
+          },
+          {
+            "id": "1dbe7e45c8950d1d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CircularMotion 2026-11-13 15.04.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CircularMotion 2026-11-13 15.04.11.excalidraw"
             }
           }
         ]
@@ -185,12 +213,15 @@
   },
   "active": "0200227e3f985c1d",
   "lastOpenFiles": [
+    "Excalidraw/CW-11-13-2026 2026-11-13 15.28.28.excalidraw.svg.md",
+    "Classwork/CW-11-13-2026.md",
+    "Definitions/CircularMotion.md",
+    "Excalidraw/CircularMotion 2026-11-13 15.04.11.excalidraw.md",
     "Classwork/CW-11-12-2026.md",
     "Excalidraw/CW-11-12-2026 2026-11-12 15.29.19.excalidraw.svg.md",
     "Excalidraw/CW-11-12-2026 2026-11-12 15.28.08.excalidraw.svg.md",
     "Excalidraw/CW-11-12-2026 2026-11-12 15.14.54.excalidraw.svg.md",
     "Excalidraw/CW-11-12-2026 2026-11-12 15.11.39.excalidraw.svg.md",
-    "Definitions/CircularMotion.md",
     "Definitions/GravitationalFieldStrength.md",
     "Classwork/DoNows.md",
     "Untitled.md",
@@ -207,9 +238,6 @@
     "Untitled 1.md",
     "Definitions/SpringsAndStuff.md",
     "Definitions/STDDev.md",
-    "Excalidraw/cw-10-26-2026 2026-10-26 15.08.34.excalidraw.md",
-    "Classwork/cw-10-26-2026.md",
-    "Excalidraw/CW-10-23-2026 2026-10-23 15.14.01.excalidraw.md",
-    "Excalidraw/CW-10-19-2026 2026-10-19 15.34.54.excalidraw.svg.md"
+    "Excalidraw/cw-10-26-2026 2026-10-26 15.08.34.excalidraw.md"
   ]
 }
