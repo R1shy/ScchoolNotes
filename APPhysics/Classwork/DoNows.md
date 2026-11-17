@@ -101,3 +101,9 @@ $F_n=1200-mg$
 $F_n=1200-1000$
 $Fn=200$
 ![[DoNows 2026-11-16 14.59.08.excalidraw.svg|70]]
+## 11/17/2026
+it would be C
+a = $3 \frac{1}{3}$
+$F=ma$
+$F=33.3$ repeating
+closest to C

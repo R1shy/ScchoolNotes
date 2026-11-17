@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
   "translucency": false,
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "showRibbon": true
 }

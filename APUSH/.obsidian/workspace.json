@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter-9.md",
+                "file": "Chapter-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter-9"
+              "title": "Chapter-10"
             }
           }
         ]
@@ -207,8 +207,10 @@
   },
   "active": "677588ba3d7b588e",
   "lastOpenFiles": [
-    "Chapter-8.md",
     "Chapter-9.md",
+    "Chapter-10.md",
+    "Chapter-8.md",
+    "CER-Practice-08-26-2026.md",
     "DBQ-Practice-11-05-2026.md",
     "SAQ-Practice-11-03-2026.md",
     "DBQ-Practice-10-22-2026.md",
@@ -220,7 +222,6 @@
     "AmericanRevolutionTimeline.md",
     "LEQ-Practice-09-14-2026.md",
     "SAQ-Practice-08-25-2026.md",
-    "CER-Practice-08-26-2026.md",
     "Chapter 2.md",
     "Chapter-1A.md",
     "Chapter-1B.md",

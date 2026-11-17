@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classwork/CW-11-13-2026.md",
+                "file": "Classwork/CW-11-17-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CW-11-13-2026"
+              "title": "CW-11-17-2026"
             }
           }
         ]
@@ -189,9 +189,11 @@
   },
   "active": "f958fb7904ea374b",
   "lastOpenFiles": [
-    "Definitions/Orbits.md",
-    "Classwork/CW-11-13-2026.md",
+    "Excalidraw/CW-11-17-2026 2026-11-17 15.13.17.excalidraw.svg.md",
+    "Classwork/CW-11-17-2026.md",
     "Classwork/DoNows.md",
+    "Classwork/CW-11-13-2026.md",
+    "Definitions/Orbits.md",
     "Excalidraw/DoNows 2026-11-16 14.59.08.excalidraw.svg.md",
     "Definitions/CircularMotion.md",
     "Classwork/CW-10-.md",
@@ -212,8 +214,6 @@
     "Classwork/CW-10-29-2026.md",
     "Definitions/KinematicEquations.md",
     "Definitions/FreeFall.md",
-    "Definitions/FreeBodyDiagram.md",
-    "Classwork/CW-10-23-2026.md",
-    "Untitled 1.md"
+    "Definitions/FreeBodyDiagram.md"
   ]
 }
