@@ -3,7 +3,7 @@
 
 I am interested in learning more about distance and velocity.
 
-## 08/20/2026[[CircularMotion]]
+## 08/20/2026
 
 1. 10
 2. 8
@@ -91,3 +91,13 @@ horizontal = t1cos(30) + t2cos(30) - F = 0
 ## 11/06/2026
 1. $\frac{4}{3}\pi15^3$ = $\frac{4}{3}\pi3375$ = $4.18879020479\cdot3375$ = ~$14137.16$
 2. $\pi3^2\cdot10$ = $\pi9\cdot10$ = $90\pi$ = ~$282.74$
+
+
+## 11/16/2026
+$mg=100\cdot10$
+$mg=1000N$
+$F_c=1200$
+$F_n=1200-mg$
+$F_n=1200-1000$
+$Fn=200$
+![[DoNows 2026-11-16 14.59.08.excalidraw.svg|70]]
