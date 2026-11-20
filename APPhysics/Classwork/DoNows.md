@@ -1,4 +1,3 @@
-
 ## 08/18/2026
 
 I am interested in learning more about distance and velocity.
@@ -111,3 +110,7 @@ closest to C
 
 ## 11/19/2026
 The answer is because A while normal force will be perpendicular to surface the gravity will remain facing down
+
+
+## 11/20/2026
+I think it is B because the forces must follow Newton's 3rd law and th elevator is decelerating meaning $v$ is not constant
