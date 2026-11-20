@@ -107,3 +107,7 @@ a = $3 \frac{1}{3}$
 $F=ma$
 $F=33.3$ repeating
 closest to C
+
+
+## 11/19/2026
+The answer is because A while normal force will be perpendicular to surface the gravity will remain facing down
