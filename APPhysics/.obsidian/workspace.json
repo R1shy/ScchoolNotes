@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Classwork/DoNows.md",
+=======
+                "file": "Definitions/ForceOfFriction.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "DoNows"
+=======
+              "title": "ForceOfFriction"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -189,6 +197,7 @@
   },
   "active": "f958fb7904ea374b",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Classwork/CW-11-19-2026.md",
     "Excalidraw/CW-11-19-2026 2026-11-19 15.40.48.excalidraw.svg.md",
     "Excalidraw/CW-11-19-2026 2026-11-19 15.38.54.excalidraw.svg.md",
@@ -196,6 +205,10 @@
     "Excalidraw/CW-11-19-2026 2026-11-19 15.16.28.excalidraw.svg.md",
     "Definitions/CentripicalForceAndAcceleration.md",
     "Definitions/AccelerationOfASystem.md",
+=======
+    "Classwork/CW-11-17-2026.md",
+    "Excalidraw/CW-11-17-2026 2026-11-17 15.13.17.excalidraw.svg.md",
+>>>>>>> Stashed changes
     "Classwork/DoNows.md",
     "Classwork/CW-11-17-2026.md",
     "Excalidraw/CW-11-17-2026 2026-11-17 15.13.17.excalidraw.svg.md",
