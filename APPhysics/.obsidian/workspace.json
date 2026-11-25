@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "f886d79f94547f39",
+    "id": "683e4b5efb0374d5",
     "type": "split",
     "children": [
       {
-        "id": "a42d36d5a355970d",
+        "id": "f7b6be2150afc7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "f958fb7904ea374b",
+            "id": "7b679c427dd42a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Classwork/DoNows.md",
-=======
-                "file": "Definitions/ForceOfFriction.md",
->>>>>>> Stashed changes
+                "file": "Definitions/WorkAndKineticEnergy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "DoNows"
-=======
-              "title": "ForceOfFriction"
->>>>>>> Stashed changes
+              "title": "WorkAndKineticEnergy"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4db9b82560a3d627",
+    "id": "37ad94ac78579850",
     "type": "split",
     "children": [
       {
-        "id": "e972e4b126c1f762",
+        "id": "d682d04f0736d082",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3bddfb19e076c5",
+            "id": "ecd7bf17333237a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +50,7 @@
             }
           },
           {
-            "id": "252fb52b479d9f8a",
+            "id": "1359ca8f8586fe04",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +67,7 @@
             }
           },
           {
-            "id": "32b0c0c8e568867f",
+            "id": "dabe0181ba6d0a11",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "2dbea87bbbe6d4e6",
+    "id": "bd4dae53d71416ba",
     "type": "split",
     "children": [
       {
-        "id": "964132d0a5344751",
+        "id": "cdb46045aaf235ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1e07a1e587e593b6",
+            "id": "292116426b79f0a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classwork/CW-10-13-2026.md",
+                "file": "Definitions/WorkAndKineticEnergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +113,12 @@
             }
           },
           {
-            "id": "27a9d19166fc6140",
+            "id": "f1fdf177721339af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definitions/WorkAndKineticEnergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -134,7 +127,7 @@
             }
           },
           {
-            "id": "a428ce57ef640c57",
+            "id": "52286baf35263cf2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +142,7 @@
             }
           },
           {
-            "id": "d4fb1eed79095093",
+            "id": "db70dfc9b174561e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,11 +156,12 @@
             }
           },
           {
-            "id": "a7b9c2eda263568d",
+            "id": "eb161cc0130e44a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Definitions/WorkAndKineticEnergy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,53 +174,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f958fb7904ea374b",
+  "active": "7b679c427dd42a28",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Classwork/CW-11-19-2026.md",
-    "Excalidraw/CW-11-19-2026 2026-11-19 15.40.48.excalidraw.svg.md",
-    "Excalidraw/CW-11-19-2026 2026-11-19 15.38.54.excalidraw.svg.md",
-    "Excalidraw/CW-11-19-2026 2026-11-19 15.34.29.excalidraw.svg.md",
-    "Excalidraw/CW-11-19-2026 2026-11-19 15.16.28.excalidraw.svg.md",
-    "Definitions/CentripicalForceAndAcceleration.md",
-    "Definitions/AccelerationOfASystem.md",
-=======
-    "Classwork/CW-11-17-2026.md",
-    "Excalidraw/CW-11-17-2026 2026-11-17 15.13.17.excalidraw.svg.md",
->>>>>>> Stashed changes
-    "Classwork/DoNows.md",
-    "Classwork/CW-11-17-2026.md",
-    "Excalidraw/CW-11-17-2026 2026-11-17 15.13.17.excalidraw.svg.md",
-    "Classwork/CW-11-13-2026.md",
-    "Definitions/Orbits.md",
-    "Excalidraw/DoNows 2026-11-16 14.59.08.excalidraw.svg.md",
-    "Definitions/CircularMotion.md",
-    "Classwork/CW-10-.md",
-    "Excalidraw/CircularMotion 2026-11-13 15.04.11.excalidraw.md",
-    "Excalidraw/CW-11-13-2026 2026-11-13 15.28.28.excalidraw.svg.md",
-    "Classwork/CW-11-12-2026.md",
-    "Excalidraw/CW-11-12-2026 2026-11-12 15.29.19.excalidraw.svg.md",
-    "Excalidraw/CW-11-12-2026 2026-11-12 15.28.08.excalidraw.svg.md",
-    "Excalidraw/CW-11-12-2026 2026-11-12 15.14.54.excalidraw.svg.md",
-    "Excalidraw/CW-11-12-2026 2026-11-12 15.11.39.excalidraw.svg.md",
-    "Definitions/GravitationalFieldStrength.md",
-    "Untitled.md",
-    "meow.md",
-    "Classwork/CW-11-06-2026.md"
+    "Definitions/WorkAndKineticEnergy.md"
   ]
 }
